@@ -19,7 +19,7 @@ This project is divided into two repositories:
 
 ### 2️⃣ **Backend Repository**
 - Developed using **Python (FastAPI)**.
-- Uses **PostgreSQL** (or other supported databases like MongoDB, MySQL).
+- Uses **PostgreSQL**.
 - Provides **interactive API documentation** for testing.
 
 🔗 **Repository Link:** [Backend Repo](https://github.com/your-org/backend)
