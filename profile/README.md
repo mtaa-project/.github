@@ -15,14 +15,14 @@ This project is divided into two repositories:
 - Implements all **mandatory frontend functionalities**.
 - Integrates with the backend via **REST API**.
 
-🔗 **Repository Link:** [Frontend Repo](https://github.com/your-org/frontend)
+🔗 **Repository Link:** [Frontend Repo](https://github.com/mtaa-project/mtaa-frontend)
 
 ### 2️⃣ **Backend Repository**
 - Developed using **Python (FastAPI)**.
 - Uses **PostgreSQL**.
 - Provides **interactive API documentation** for testing.
 
-🔗 **Repository Link:** [Backend Repo](https://github.com/your-org/backend)
+🔗 **Repository Link:** [Backend Repo](https://github.com/mtaa-project/mtaa-backend)
 
 ---
 
